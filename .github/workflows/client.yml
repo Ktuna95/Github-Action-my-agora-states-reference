@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-student-14-Ktuna95 \
             --delete
-        working-directory: "./my-agora-states-client"
+        working-directory: ./my-agora-states-client
